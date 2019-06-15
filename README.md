@@ -4,7 +4,7 @@ Using this php script, you can send email using SMTP PHPMailer Library. Set the 
 
 ## Designing email
 
-In the repository there is a file named "template_design.html". Open the file and edit it as you want to your desired html design. A sample design is already added here.
+In the repository there is a file named <a href="template_design.html">template_design.html</a>. Open the file and edit it as you want to your desired html design. A sample design is already added here.
 
 <img src="images/ss1.png" width="100%"/>
 
